@@ -28,6 +28,6 @@ Se agregaron gráficos y métricas adicionales para ofrecer una visión más det
 
 
 ### Paso 3: Panel de filtros
-Se incorporó un panel de filtros en el lado derecho del dashboard. Este panel permite una exploración interactiva y personalizada de los datos. Con filtros para el tema, idioma, nivel, precio y calificación, se puede adaptar el tablero para examinar diferentes segmentos de la audiencia de Udemy y explorar a fondo las métricas clave.
+Se incorporó un panel de filtros en el lado derecho del panel de control. Este panel permite una exploración interactiva y personalizada de los datos. Con filtros para el tema, idioma, nivel, precio y calificación, se puede adaptar el tablero para examinar diferentes segmentos de la audiencia de Udemy y explorar a fondo las métricas clave.
 
 
