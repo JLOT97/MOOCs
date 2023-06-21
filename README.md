@@ -3,7 +3,7 @@
 # 📊🌐 Análisis de Mercado MOOC 💻📚
 
 
-![Project Image](https://drive.google.com/uc?export=view&id=1tHlU3ibGfrUvRPxSradP0uCUjlEYkCOo)
+![Project Image](https://drive.google.com/uc?export=view&id=1MflVYobFu_JmMsBp4oI3cB3JvvGg7024)
 
 
 </div>
