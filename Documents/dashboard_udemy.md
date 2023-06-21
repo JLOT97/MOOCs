@@ -3,7 +3,7 @@
 ### Paso 1: Importación de datos en Power BI
 Se importó el archivo CSV "udemy_final.csv" en Power BI para cargar los datos en un modelo de datos.
 
-### Paso 2: Diseño del dashboard
+### Paso 2: Diseño del panel de control
 En este paso, se diseñó el dashboard de Power BI para presentar los resultados del análisis de manera efectiva.
 
 #### KPIs Clave
