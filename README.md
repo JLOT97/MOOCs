@@ -31,11 +31,11 @@ El proyecto incluye los siguientes archivos:
 ## 2. Documentación 📄📝
 
 
-- [Dashboard](documents/dashboard_udemy.md): Documento que describe el diseño y la funcionalidad del dashboard creado en Power BI. Proporciona una visión general de las visualizaciones, gráficos y KPIs utilizados para analizar el mercado de MOOCs.
+- [Dashboard](Documents/dashboard_udemy.md): Documento que describe el diseño y la funcionalidad del dashboard creado en Power BI. Proporciona una visión general de las visualizaciones, gráficos y KPIs utilizados para analizar el mercado de MOOCs.
 
-- [EDA](documents/eda_udemy.md): Documento que detalla el proceso de Análisis Exploratorio de Datos (EDA) realizado en el proyecto. Describe las técnicas y visualizaciones utilizadas para comprender los patrones, tendencias y relaciones en los datos.
+- [EDA](Documents/eda_udemy.md): Documento que detalla el proceso de Análisis Exploratorio de Datos (EDA) realizado en el proyecto. Describe las técnicas y visualizaciones utilizadas para comprender los patrones, tendencias y relaciones en los datos.
 
--  [Web Scraping](documents/web_scraping.md): Documento que explica el proceso de web scraping utilizado para obtener datos adicionales de la plataforma Udemy. Describe las herramientas y bibliotecas utilizadas, así como los pasos seguidos para extraer la información relevante.
+-  [Web Scraping](Documents/web_scraping.md): Documento que explica el proceso de web scraping utilizado para obtener datos adicionales de la plataforma Udemy. Describe las herramientas y bibliotecas utilizadas, así como los pasos seguidos para extraer la información relevante.
 
 
 
