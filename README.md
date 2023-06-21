@@ -1,7 +1,12 @@
+<div align="center">
+
 # 📊🌐 Análisis de Mercado MOOC 💻📚
 
 
 ![Project Image](https://drive.google.com/uc?export=view&id=1tHlU3ibGfrUvRPxSradP0uCUjlEYkCOo)
+
+
+</div>
 
 Este proyecto tiene como objetivo realizar un análisis exhaustivo del mercado de MOOCs (Cursos Online Abiertos y Masivos) utilizando datos de la plataforma Udemy. A través del análisis de datos y la visualización de información relevante, buscamos comprender las tendencias, oportunidades y desafíos en el mercado de los cursos en línea.
 
